@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ana Gusmão
+- :star:  Curious and Enthusiastic!!!
 - 👀 I’m interested in Data Science | Data analysis | Database
-- 🌱 I’m currently learning Python :bulb:
+- 🌱 I’m currently an engineering student, studying Python and data analysis :bulb:
 - 💞️ I’m looking to collaborate on projects as an intern, I want to learn!:blush:
 - 📫 How to reach me > www.linkedin.com/in/anagusmao3012 :pushpin:
 
